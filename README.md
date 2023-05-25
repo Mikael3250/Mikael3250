@@ -1,4 +1,12 @@
-### Hi my name is Mikael i'm studying WEB DEVELOPMENT 💚
+### Hi my name is Mikael i'm studying FULL-STACK WEB DEVELOPMENT 💚
+my stack is:
+HTML5, CSS3, JavaScript, Bootstrap, NodeJS... (all i studying)
+
+more about me:
+I Can Speak
+- Portuguese Native 🇧🇷
+- English Mid Level 🇺🇸
+- Polish Begginer 🇵🇱
 
 <!--
 **Mikael3250/Mikael3250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
