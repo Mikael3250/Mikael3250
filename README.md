@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Mikael i'm studying WEB DEVELOPMENT 💚
 
 <!--
 **Mikael3250/Mikael3250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
