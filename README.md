@@ -1,8 +1,5 @@
 ### Hi my name is Mikael i'm studying FULL-STACK WEB DEVELOPMENT 💚
-my stack is:
-HTML5, CSS3, JavaScript, Bootstrap, NodeJS... (all i studying)
 
-more about me:
 I Can Speak
 - Portuguese Native 🇧🇷
 - English Mid Level 🇺🇸
@@ -14,6 +11,7 @@ I Can Speak
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael3250&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
+ - My Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +20,7 @@ I Can Speak
 
  <br> 
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Minhas Redes Sociais!
  
 <div> 
   <a href="https://www.youtube.com/@Mika3250_Dev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
